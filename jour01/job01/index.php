@@ -1,5 +1,4 @@
 <?php
-echo 'Hello LaPlateforme!';
 $str='LaPlateforme';
 $str2='Vive';
 $str3='!';
@@ -11,13 +10,4 @@ $myBool= true;
 echo "<br/>".$myBool;
 $myBool= false;
 echo "<br/>".$myBool;
-
-
-
-
-
-
-
-
-
 ?>
